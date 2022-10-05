@@ -1,8 +1,8 @@
 ## You are given the following HTML page index.html, apply the following CSS selectors to the HTML page:
 
 
-1. Set the width of the body to 1080px and let the left margin equal the right margin.
-2. Select & style the element with id sidebar to a gray background color, font-size of 0.9 em, padding of 10 px and width of 36%.
+1. Set the width of the body to 1080px and let the left margin equal the right margin. \\ DONE
+2. Select & style the element with id sidebar to a gray background color, font-size of 0.9 em, padding of 10 px and width of 36%. \\ DONE
 3. Position the  element with id main next to the element with id sidebar. (Use the flexbox concept. The element with id main should have a width of 62% and a padding of 10px.)
 4. Select & style the input field with type text to a grey border, a border radius of 0.375 em, a height of 2.5 em, a top and bottom padding of 1 em and a margin of 5 px.
 5. Select & style the input field with type text when it gets focus, to a red border color. (Maybe you had to set the outline property to 0)
