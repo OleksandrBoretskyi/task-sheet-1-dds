@@ -1,0 +1,56 @@
+body {
+  background-color: gainsboro;
+}
+
+h1 {
+  background-color: #008080;
+  color: white;
+  font-family: "Roboto Slab";
+  font-size: 40px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#wrapper {
+  background-color: silver;
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  margin-left: 2%;
+  margin-right: 2%;
+  
+}
+
+#right {
+  margin-left: 2%;
+  margin-right: 2%;
+  border-left: 2px solid #008080;
+  flex-grow: 1;
+  padding-left: 2%;
+  padding-bottom: 4%;
+}
+
+#left {
+  margin-left: 2%;
+  margin-right: 5%;
+  flex-grow: 1;
+}
+
+table, tr, td {
+  border: 1px solid #008080;
+  text-align: left;
+  padding: 1px;
+  border-collapse: collapse;
+  width: 20%;
+  height: 10%;
+  
+}
+
+th {
+  background-color: #008080;
+  color: white;
+}
+
+table {
+  margin: auto;
+}
